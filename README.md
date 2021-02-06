@@ -10,7 +10,7 @@
 go run main.go
 ```
 
-## Endpoints
+### Endpoints
 
 #### Get all technologies
 
